@@ -63,6 +63,9 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Synthesia](https://www.synthesia.io/)** – Create AI-generated videos with avatars.
 - **[Kaiber](https://www.kaiber.ai/)** – Turn audio and prompts into stylized video.
 - **[GrokVideo Studio](https://grokvideogenerator.dev)** – Independent text/image-to-video app using xAI Grok Imagine API (not official xAI/X); free trial credits.
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** – Independent AI: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok.
+- **[Bad Times AI](https://badtimesai.dev)** – Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** – Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 
 ## Code Generation
 
