@@ -47,6 +47,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[DALL·E 3](https://openai.com/dall-e)** – Text-to-image model by OpenAI.
 - **[Midjourney](https://www.midjourney.com/)** – High-quality AI art generator from text prompts.
 - **[Deep Dream Generator](https://deepdreamgenerator.com/)** – Tool for generating dream-like AI art using convolutional neural nets.
+- **[PromptImage](https://promptimage.cloud)** – Free AI image gallery and image/video generator (Freemium).
 
 ## Music & Audio Generation
 
@@ -61,6 +62,7 @@ Generative AI refers to algorithms (like GANs, VAEs, and LLMs) that can generate
 - **[Pika Labs](https://www.pika.art/)** – AI-generated short-form video from text prompts.
 - **[Synthesia](https://www.synthesia.io/)** – Create AI-generated videos with avatars.
 - **[Kaiber](https://www.kaiber.ai/)** – Turn audio and prompts into stylized video.
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** – Independent text/image-to-video app using xAI Grok Imagine API (not official xAI/X); free trial credits.
 
 ## Code Generation
 
